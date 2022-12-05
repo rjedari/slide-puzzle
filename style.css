@@ -1,0 +1,23 @@
+#logo {
+    height: 150px;
+    width: 400px;
+    margin: 0 auto;
+display: block;
+
+}
+
+#slide-puzzle{
+    width: 360px;
+    height: 360px;
+    background-color: lightblue;
+    border: 10px solid #0c67ae;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#slide-puzzle >img{
+    width: 118px;
+    height: 118px;
+    border: 1px solid #0c67ae;
+}
